@@ -1,5 +1,5 @@
 # ED_1
 
 
-https://awesomenick22.github.io/ED_1/index.html
+https://github.com/AwesomeNick22/ED_1/blob/master/index.html
 
