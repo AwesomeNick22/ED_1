@@ -1,5 +1,6 @@
 # ED_1
 
 
-file:///Users/default/Documents/GitHub/ED_1/index.html
+https://github.com/AwesomeNick22/ED_1/blob/master/index.html
+
 
